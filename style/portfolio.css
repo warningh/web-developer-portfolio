@@ -178,14 +178,13 @@ footer{
     padding: 130px 230px;
     display: flex;
     gap: 100px;
-
 }
 
 .footer-column{
     width: 50%;
 }
 
-input[type="text"], footer input[type="emaail"], footer textarea{
+input[type="text"], footer input[type="email"], footer textarea{
     height: 64px;
     border-radius: 5px;
     background-color: white;
